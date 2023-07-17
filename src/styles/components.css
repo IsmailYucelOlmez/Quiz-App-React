@@ -1,0 +1,10 @@
+header{
+    width: 100%;
+    padding: 10px;
+    color: #fff;
+    background-color: #e63946;
+    display: flex;
+    justify-content: center;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px; 
+}
